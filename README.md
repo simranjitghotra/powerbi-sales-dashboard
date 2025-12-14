@@ -23,3 +23,6 @@ This project is an interactive Power BI dashboard created to analyze business da
 
 ## Author
 Simranjit Ghotra
+
+
+<img width="1126" height="622" alt="image" src="https://github.com/user-attachments/assets/4c42ec67-225b-40bc-88db-92dd33b05902" />
